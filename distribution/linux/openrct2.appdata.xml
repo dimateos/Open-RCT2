@@ -13,6 +13,7 @@
   <summary xml:lang="ko">놀이공원 시뮬레이션</summary>
   <summary xml:lang="pl">Symulator parku rozrywki</summary>
   <summary xml:lang="pt">Simulador de parque de diversões</summary>
+  <summary xml:lang="zh-TW">主題樂園模擬遊戲</summary>
   <developer_name>The OpenRCT2 Team</developer_name>
   <developer_name xml:lang="ca">Equip de l’OpenRCT2</developer_name>
   <developer_name xml:lang="de">Das OpenRCT2-Team</developer_name>
@@ -22,6 +23,7 @@
   <developer_name xml:lang="ko">OpenRCT2 팀</developer_name>
   <developer_name xml:lang="pl">Zespół OpenRCT2</developer_name>
   <developer_name xml:lang="pt">Equipe do OpenRCT2</developer_name>
+  <developer_name xml:lang="zh-TW">OpenRCT2團隊</developer_name>
   <launchable type="desktop-id">openrct2.desktop</launchable>
   <description>
     <p>
@@ -107,6 +109,13 @@
       “caixa de areia” deixa o jogador construir um parque mais flexível, opcionalmente sem
       restrições ou finanças.
     </p>
+    <p xml:lang="zh-TW">
+      OpenRCT2為一個免費及開放原始碼的模擬樂園2(RCT2)重製版本.
+      遊戲方式圍繞著建造及經營內含遊樂設施, 店鋪及其他設施的主題樂園
+      玩家需要於牟利及維持良好的樂園評價的同時讓遊客高興. OpenRCT2允許
+      劇情及沙盒遊戲方式. 劇情模式需要玩家在指定的時間限制內完成指定目標,
+      而沙盒模式容許玩家建造一個可選無目標或金錢限制, 較無束縛的樂園.
+    </p>
 
     <p>
       OpenRCT2 features many changes compared to the original RollerCoaster Tycoon 2 game. A few of them are listed here.
@@ -135,6 +144,9 @@
     <p xml:lang="pt">
       O OpenRCT2 conta com muitas mudanças quando comparado ao jogo RollerCoaster Tycoon 2 original. Aqui são listadas algumas delas.
     </p>
+    <p xml:lang="zh-TW">
+      OpenRCT2 對比原本的模擬樂園2(RCT2)有著很多改變. 一些改變的例子如下.
+    </p>
 
     <ul>
       <li>User Interface theming.</li>
@@ -146,6 +158,7 @@
       <li xml:lang="ko">유저 인터페이스 커스터마이징</li>
       <li xml:lang="pl">Edycja motywów interfejsu użytkownika</li>
       <li xml:lang="pt">Customização por temas da interface de usuário.</li>
+      <li xml:lang="zh-TW">自訂操作介面主題.</li>
 
       <li>Fast-forwarding gameplay.</li>
       <li xml:lang="ca">Diferents velocitats de joc</li>
@@ -156,6 +169,7 @@
       <li xml:lang="ko">게임 속도 조절</li>
       <li xml:lang="pl">Przyspieszanie rozgrywki</li>
       <li xml:lang="pt">Dinâmica de jogo acelerável.</li>
+      <li xml:lang="zh-TW">快轉遊戲運作.</li>
 
       <li>Multiplayer support.</li>
       <li xml:lang="ca">Suport multijugador</li>
@@ -166,6 +180,7 @@
       <li xml:lang="ko">멀티플레이 지원</li>
       <li xml:lang="pl">Tryb wieloosobowy</li>
       <li xml:lang="pt">Suporte multijogador.</li>
+      <li xml:lang="zh-TW">多人遊戲功能.</li>
 
       <li>Multilingual. Improved translations.</li>
       <li xml:lang="ca">Traduccions a diversos idiomes i correccions de les traduccions originals</li>
@@ -176,6 +191,7 @@
       <li xml:lang="ko">다국어 지원 및 번역 개선</li>
       <li xml:lang="pl">Wielojęzyczność i ulepszone tłumaczenia</li>
       <li xml:lang="pt">Multilíngue. Traduções aperfeiçoadas.</li>
+      <li xml:lang="zh-TW">多語言. 翻譯改進.</li>
 
       <li>OpenGL hardware rendering.</li>
       <li xml:lang="ca">Renderització OpenGL per maquinari</li>
@@ -186,6 +202,7 @@
       <li xml:lang="ko">OpenGL 하드웨어 렌더링</li>
       <li xml:lang="pl">Obsługa renderowania OpenGL</li>
       <li xml:lang="pt">Renderização por hardware OpenGL.</li>
+      <li xml:lang="zh-TW">OpenGL硬體渲染.</li>
 
       <li>Various fixes and improvements for bugs in the original game.</li>
       <li xml:lang="ca">Correccions i millores dels errors del joc original</li>
@@ -196,6 +213,7 @@
       <li xml:lang="ko">오리지널 게임에 있던 다양한 버그 수정 및 개선</li>
       <li xml:lang="pl">Poprawki błędów i usprawnienia względem oryginalnej gry</li>
       <li xml:lang="pt">Várias correções e melhorias para problemas no jogo original.</li>
+      <li xml:lang="zh-TW">眾多對原遊戲的修復及改進.</li>
 
       <li>Native support for Linux and macOS.</li>
       <li xml:lang="ca">Suport natiu per a Linux i macOS</li>
@@ -206,6 +224,7 @@
       <li xml:lang="ko">Linux 및 macOS 자체 지원</li>
       <li xml:lang="pl">Natywna obsługa systemów Linux i macOS</li>
       <li xml:lang="pt">Suporte nativo para Linux e macOS.</li>
+      <li xml:lang="zh-TW">對Linux and macOS的原生支援.</li>
 
       <li>Added hacks and cheats.</li>
       <li xml:lang="ca">Es poden fer trucs i trampes</li>
@@ -216,6 +235,7 @@
       <li xml:lang="ko">치트 기능 지원</li>
       <li xml:lang="pl">Kody i hacki</li>
       <li xml:lang="pt">Trapaças e hacks adicionados.</li>
+      <li xml:lang="zh-TW">新增及密技.</li>
 
       <li>Auto-saving and giant screenshots.</li>
       <li xml:lang="ca">Desades automàtiques i captures de pantalla gegants</li>
@@ -226,6 +246,7 @@
       <li xml:lang="ko">자동 저장 및 대형 스크린 샷</li>
       <li xml:lang="pl">Autozapis i możliwość robienia ogromnych zrzutów ekranu</li>
       <li xml:lang="pt">Salvamento automático e capturas de tela gigantes.</li>
+      <li xml:lang="zh-TW">自動儲存及巨型截圖.</li>
     </ul>
 
     <p>
@@ -255,6 +276,9 @@
     <p xml:lang="pt">
       Arquivos dos jogos originais RollerCoaster Tycoon 2 ou RollerCoaster Tycoon Classic são necessários para jogar OpenRCT2.
     </p>
+    <p xml:lang="zh-TW">
+      OpenRCT2需要原本的模擬樂園2(RCT2)或RollerCoaster Tycoon Classic的遊戲檔案才能運行.
+    </p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -268,6 +292,7 @@
       <caption xml:lang="ko">인버티드 롤러코스터를 구현한 놀이공원과 리버 래피드 기구 및 커스텀 풍경 오브젝트</caption>
       <caption xml:lang="pl">Park rozrywki z odwróconą kolejką górską, spływem rwącą rzeką i niestandardową scenerią</caption>
       <caption xml:lang="pt">Parque de diversões que conta com uma montanha-russa invertida, corredeira de rio e cenários customizados</caption>
+      <caption xml:lang="zh-TW">一個附有懸吊式雲霄飛車. 一個激流船及自定義景物的主題樂園</caption>
     </screenshot>
   </screenshots>
   <url type="homepage">https://openrct2.io/</url>
